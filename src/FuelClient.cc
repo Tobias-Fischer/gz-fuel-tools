@@ -31,6 +31,7 @@
 #include <memory>
 #include <regex>
 #include <string>
+#include <thread>
 
 #include <gz/common/Console.hh>
 #include <gz/common/Filesystem.hh>
